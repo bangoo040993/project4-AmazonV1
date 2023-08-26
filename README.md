@@ -1,14 +1,16 @@
 Bao checking in.
-`TJ was here`
-andrew was here
+andrew was here a second time
 
 
-Alex is here
+# My Favorite Online Instructors
 
-Jeff has arrived
+[__Colt Steele__](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
 
+[__Brad Traversy__](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
+[__Jose Santos Garcia__](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
 
+[__Stephen Grider__](https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg/)
 
 ## Steps
 

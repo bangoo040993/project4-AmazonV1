@@ -5,6 +5,8 @@ const PORT = process.env.PORT || 8000;
 const mongoose = require('mongoose');
 const path = require('path');
 
+//TEST TEST TEST
+
 /* Add MongoDB here after connecting database in .env
 const MONGODB_URI = process.env.MONGODB_URI
 const db = mongoose.connection;

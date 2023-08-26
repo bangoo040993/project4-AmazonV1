@@ -11,7 +11,7 @@ andrew was here a second time
 
 Gunish was here
 
-Sundaland (name pending)
+Sundaland / Galapagos (name pending)
 
 [Purpose]: Our team created a MERN stack web application similar in style and function to multinational e-commerce platform, Amazon, for General Assembly coding bootcamp. 
 

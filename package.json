@@ -7,13 +7,22 @@
   "description": "A way for people to start a react project and not be locked into create react app",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "build": "gulp build && gulp styles",
     "dev:webpack": "webpack --mode development --define-process-env-node-env dev",
     "build:webpack": "webpack --mode production --define-process-env-node-env production",
     "dev": "gulp",
     "styles": "gulp styles",
-    "start": "node server.js"
+
+    "start": "node server.js",
+    "db:mac": "brew services start mongodb-community@7.0"
+
+    "start": "node server.js", 
+    "load": "artillery run tests/artillery.yml"
+  },
+  "jest": {
+      "testEnvironment": "node"
+
   },
   "author": "",
   "license": "ISC",

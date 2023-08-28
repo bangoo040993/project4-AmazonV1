@@ -4,8 +4,7 @@ const { MongoMemoryServer } = require('mongodb-memory-server')
 const app = require('../app.js')
 const PORT = process.env.PORT || 3002
 const server = app.listen(`${PORT}`, () => console.log('Testing on PORT'))
-const Tomato = require('../models/tomato.js')
-const User = require('../models/user.js')
+const User = require('../models/user.js') //actual naming of routes TBD
 let mongoServer; 
 
 

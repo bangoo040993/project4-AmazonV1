@@ -82,21 +82,10 @@ Our team created a MERN stack web application similar in style and function to m
 
 ### Technologies_Used
 
-| | | List | | |
-
+|         |         | List    |         |         |
 | ------- | ------- | ------- | ------- | ------- |
-
-| [![React][React.js]][React-url] |
-
-[![Nodejs][Node.js]][Node-url] |
-
-[![Express][Express]][Express-url] |
-
-[![Slack][Slack]][Slack-url] |
-
-[![Slack][Slack]][Slack-url] |
-
-| Github | | | | |
+| [![React][React.js]][React-url] | [![Nodejs][Node.js]][Node-url] | [![Nodejs][Node.js]][Node-url] | [![Postman][Postman]][Postman-url] | [![Mongodb][Mongodb]][Mongodb-url] |
+| Github  |         |         |         |         |
 
   
 
@@ -153,11 +142,11 @@ Our team created a MERN stack web application similar in style and function to m
 
 [Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 
-[Postman-url]:
+[Postman-url]:https://www.postman.com/
 
 [Mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 
-[Mongodb-url]:
+[Mongodb-url]:https://www.mongodb.com/
 
 [Slack]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
 

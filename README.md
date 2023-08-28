@@ -1,75 +1,204 @@
-Bao checking in.
+<img src= './public/img/SKAMAZON.png'/>
 
-Alex is here
+# GALAPAGOS/SCAMAZON/PINE GROVE/ officail name tbd
 
-Jeff has arrived
+  
 
+Contents nice
 
-# Big Poppa Code React Starter Kit
-This Starter Kit is being created for New Web Developers that want to get started with react
+  
 
-Most people use a CLI Tool like Vue-Cli or Create React App and no idea what these things are doing
+=========
 
-The goal of this is for it to be a tool that let's you learn JS at a new level because you have access to
-everything under the hood and no opinionated set up
+  
 
-I will base all my tutorials on this Starter Kit.
+* [Usage]
 
-# Who Am I?
+  
 
-![arthurbernierjr.com](http://progressandfortune.com/smac_images/profile.jpg)
+* [Installation]
 
-I am Arthur Bernier Jr. I work as freelance fullstack web developer and attraction marketing consultant specializing in supporting e-commerce brands,
-subscription box sites, social activists, religious/non-profit leaders and creative entrepreneurs(i.e. barbers, artists, musicians, stylists, models and photographers).
-I have a passion for helping entrepreneurs reach their perfect audience and helping you communicate to that audience in a way that makes them know, like and trust you. I also am a Full-Time Instructor at General Assembly as well as a Software Engineer at Blavity Inc.
+  
 
+* [Purpose]
 
-# My Favorite Online Instructors
+  
 
-[__Colt Steele__](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
+* [Wireframes]
 
-[__Brad Traversy__](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+  
 
-[__Jose Santos Garcia__](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
+* [ERD]
 
-[__Stephen Grider__](https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg/)
+  
 
-## Steps
+* [Technologies_Used]
 
-**Install Gulp Globally**
-```bash
-npm i -g gulp-cli
-```
+  
 
-**Start the dev server**
-```bash
-npm run dev
-```
-### or
-```bash
-yarn dev
-```
+* [API]
 
-**Start the dev server with proxy**
-```bash
-npm run proxy
-```
+  
 
-**Build files for production**
-```bash
-yarn build
-```
-### or
+* [Routing]
 
-```bash
-npm run build
-```
+  
 
-**Deploy for production script**
-```bash
-npm start
-```
-### or
-```bash
-yarn start
-```
+* [App_Features] /*(mentions the function names, type of function (if applicable(i.e. Callback, loop, closure)) what it does, type of request it sends (if applicable), or any other information)*/
+
+  
+
+* [Technical_Challenges]
+
+  
+
+* [Collaborators]
+
+  
+
+### Usage
+
+  
+
+### Installation
+
+  
+
+### Purpose
+
+  
+
+Our team created a MERN stack web application similar in style and function to multinational e-commerce platform, Amazon, for General Assembly coding bootcamp.
+
+  
+
+### Wireframes
+
+  
+
+### ERD
+
+  
+
+### Technologies_Used
+
+| | | List | | |
+
+| ------- | ------- | ------- | ------- | ------- |
+
+| [![React][React.js]][React-url] |
+
+[![Nodejs][Node.js]][Node-url] |
+
+[![Express][Express]][Express-url] |
+
+[![Slack][Slack]][Slack-url] |
+
+[![Slack][Slack]][Slack-url] |
+
+| Github | | | | |
+
+  
+
+### API
+
+  
+
+### Routing
+
+  
+
+- USER ROUTES
+
+  
+
+| **HTTP Method** | **End Point** | **Action** |
+
+| :-------------- | :--------------: | ----------------: |
+
+| POST | /user | Creates user |
+
+| POST | /user/login | Logs in user |
+
+| POST | /user/logout/:id | Logs out user |
+
+  
+
+### App Features
+
+  
+
+### Technical_Challenges
+
+  
+
+### Collaborators
+
+  
+  
+
+<!--Links For Stuff-->
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+[React-url]: https://reactjs.org/
+
+[Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+
+[Node-url]: https://nodejs.org/en/
+
+[Express]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+
+[Express-url]: https://expressjs.com/
+
+[Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+
+[Postman-url]:
+
+[Mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+
+[Mongodb-url]:
+
+[Slack]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+
+[Slack-url]:
+
+[Vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+
+[Vscode-url]:
+
+[Github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+
+[Github-url]:
+
+[Trello]: https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white
+
+[Trello-url]:
+
+[Bootstrap]: https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
+
+[Bootstrap-url]:
+
+[JWT]: https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens
+
+[JWT-url]:
+
+[DigitalOcean]: https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white
+
+[DigitalOcean-url]:
+
+[Gulp]: https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white
+
+[Gulp-url]:
+
+[Babel]: https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+
+[Babel-url]:
+
+[Nodemon]: https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD
+
+[Nodemon-url]:
+
+[Webpack]: https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black
+
+[Webpack-url]:

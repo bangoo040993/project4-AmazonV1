@@ -1,4 +1,3 @@
-
 <img src= './public/img/SKAMAZON.png'/>
 
 # GALAPAGOS/SCAMAZON/PINE GROVE/ officail name tbd
@@ -83,9 +82,10 @@ Our team created a MERN stack web application similar in style and function to m
 
 |         |         | List    |         |         |
 | ------- | ------- | ------- | ------- | ------- |
-| [![React][React.js]][React-url] | [![Nodejs][Node.js]][Node-url] | [![Nodejs][Node.js]][Node-url] | [![Postman][Postman]][Postman-url] | [![Mongodb][Mongodb]][Mongodb-url] |
-| Github  |         |         |         |         |
-
+| [![React][React.js]][React-url] | [![Nodejs][Node.js]][Node-url] | [![Express][Express]][Express-url] | [![Postman][Postman]][Postman-url] | [![Mongodb][Mongodb]][Mongodb-url] |
+| [![Slack][Slack]][Slack-url] | [![Vscode][Vscode]][Vscode-url] | [![Github][Github]][Github-url] | [![Trello][Trello]][Trello-url] | [![BootStrap][BootStrap]][BootStrap-url] |
+| [![JWT][JWT]][JWT-url] | [![DigitalOcean][DigitalOcean]][DigitalOcean-url] | [![Gulp][Gulp]][Gulp-url] | [![Babel][Babel]][Babel-url] | [![Nodemon][Nodemon]][Nodemon-url] |
+| [![Webpack][Webpack]][Webpack-url] | [![DigitalOcean][DigitalOcean]][DigitalOcean-url] | [![Gulp][Gulp]][Gulp-url] | [![Babel][Babel]][Babel-url] | [![Nodemon][Nodemon]][Nodemon-url] |
   
 
 ### API
@@ -141,89 +141,54 @@ Our team created a MERN stack web application similar in style and function to m
 
 [Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 
-[Postman-url]:https://www.postman.com/
+[Postman-url]: https://www.postman.com/
 
 [Mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 
-[Mongodb-url]:https://www.mongodb.com/
+[Mongodb-url]: https://www.mongodb.com/
 
 [Slack]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
 
-[Slack-url]:
+[Slack-url]: https://slack.com/
 
 [Vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 
-[Vscode-url]:
+[Vscode-url]: https://code.visualstudio.com/
 
 [Github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 
-[Github-url]:
+[Github-url]: https://github.com/
 
 [Trello]: https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white
 
-[Trello-url]:
+[Trello-url]: https://trello.com/
 
 [Bootstrap]: https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
 
-[Bootstrap-url]:
+[Bootstrap-url]:https://getbootstrap.com/
 
 [JWT]: https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens
 
-[JWT-url]:
+[JWT-url]: https://jwt.io/
 
 [DigitalOcean]: https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white
 
-[DigitalOcean-url]:
+[DigitalOcean-url]: https://www.digitalocean.com/
 
 [Gulp]: https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white
 
-[Gulp-url]:
+[Gulp-url]: https://gulpjs.com/
 
-[Babel]: https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+[Babel]: https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black
 
-[Babel-url]:
+[Babel-url]: https://babeljs.io/
 
 [Nodemon]: https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD
 
-[Nodemon-url]:
+[Nodemon-url]: https://nodemon.io/
 
 [Webpack]: https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black
 
-[Webpack-url]:
-
-Bao checking in.
-Jeff has arrived
-Alex is here
-`TJ was here`
-andrew was here a second time
-Gunish was here
-
-Sundaland / Galapagos (name pending)
-
-[Purpose]: Our team created a MERN stack web application similar in style and function to multinational e-commerce platform, Amazon, for General Assembly coding bootcamp. 
-
-[Collaborators]
+[Webpack-url]: https://webpack.js.org/
 
 
-[Wireframes]
-
-[ERD]
-
-[Technologies_Used]
-VS Code 
-GitHub
-MERN Stack (MongoDB, Express, React, NodeJS)
-Postman
-…more to come
-[Technical_Challenges]
-[Backend]:
-	[API]
-	[Routing]
-	[Models]
-[App_Features] (mentions the function names, type of function (if applicable(i.e. Callback, loop, closure)) what it does, type of request it sends (if applicable), or any other information)
-[User Registration]
-[Login/Logout]
-[Cart/cart_checkout] 
-[Wish_List]
-[Searching_Items]
-[Adding_Items_To_Order]

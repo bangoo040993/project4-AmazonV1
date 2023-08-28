@@ -1,9 +1,12 @@
 require('dotenv').config();
+require('./config/database.js');
 const express = require('express');
 const app = express();
 const PORT = process.env.PORT || 8000;
 const mongoose = require('mongoose');
 const path = require('path');
+
+//TEST TEST TEST
 
 /* Add MongoDB here after connecting database in .env
 const MONGODB_URI = process.env.MONGODB_URI
@@ -17,31 +20,28 @@ db.on('open', () => {
 
 /* Middleware */
 app.use(express.json());
-if (process.env.NODE_ENV !== 'development'){
-  app.use(express.static('public'))
+if (process.env.NODE_ENV !== 'development') {
+	app.use(express.static('public'));
 }
 
 /* Controller Goes Here Remove the tes*/
-app.get('/test', (req, res)=>{
+app.get('/test', (req, res) => {
 	res.status(200).json({
 		website: 'My Website',
 		info: 'Not that much'
-	})
-})
+	});
+});
 /* Controller Ends here */
 //LISTENER
 
-
 // for react router
 app.get('*', (req, res) => {
-	res.sendFile(path.resolve(path.join(__dirname, 'public', 'index.html')))
-})
-
-app.listen(PORT, () => {
-    console.log(`API Listening on port ${PORT}`);
+	res.sendFile(path.resolve(path.join(__dirname, 'public', 'index.html')));
 });
 
-
+app.listen(PORT, () => {
+	console.log(`API Listening on port ${PORT}`);
+});
 
 /* Vanilla Node Server
 const http = require('http'); // The node http module allow you to create servers
